@@ -1,6 +1,5 @@
 const Discord = require("discord.js");
 const config = require("../../config.json");
-const translate = require('google-translate-api');
 
 module.exports.run = async (bot, message, args) => {
   if (!message.member) return;
@@ -12,7 +11,7 @@ module.exports.run = async (bot, message, args) => {
        message.delete()
       return
       } else {
-        message.channel.send("Acho q agr so fazer funcao nisso")
+        message.channel.send("Se fode ae trouxa kkkj")
       }
   
 };
