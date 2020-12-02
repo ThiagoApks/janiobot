@@ -13,6 +13,6 @@ module.exports.help = {
   aliases: ["foto", "imagem"],
   permission: "",
   category: "Miscelanea",
-  description: "Veja a imagem de alguém.",
+  description: "Veja a imagem de um mano.",
   usage: "avatar (alguem)",
 };
