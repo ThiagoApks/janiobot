@@ -61,4 +61,5 @@ function loadComandos(diretorio){
           }
       });
 }
-bot.login(process.env.TOKEN);
+bot.login(config.token);
+//bot.login(process.env.TOKEN);
